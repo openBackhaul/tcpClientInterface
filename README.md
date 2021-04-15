@@ -6,19 +6,19 @@
 - 1.0.0-tsi.d.t : Rudimentary model for Telefonica Germany internal use
 
 ### UML
-- [AirInterface_2.0.0-tsp.191122.1800](./AirInterface_2.0.0-tsp.191122.1800.zip)
+- [TcpClientInterface_1.0.0-tsp.210413.1530](./TcpClientInterface_1.0.0-tsp.210413.1530.zip)
 
 ### Overview 
-- [AirInterface_2.0.0-tsp.191122.1800+overview.1](./AirInterface_2.0.0-tsp.191122.1800+overview.1.png)
+- [TcpClientInterface_1.0.0-tsp.210413.1530+overview.1](./TcpClientInterface_1.0.0-tsp.210413.1530+overview.1.png)
 
 ### GenDoc Export
-- [AirInterface_2.0.0-tsp.191122.1800+gendoc.1](./AirInterface_2.0.0-tsp.191122.1800+gendoc.1.docx)
+- [TcpClientInterface_1.0.0-tsp.210413.1530+gendoc.1](./TcpClientInterface_1.0.0-tsp.210413.1530+gendoc.1.docx)
 
 ### Augmentation Condition
 - When statement in Augmentation statement demands for LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_TCP_LAYER
 
 ### YANG File
-- not planned
+- [TcpClientInterface_1.0.0-tsp.210413.1530+yang.1](./TcpClientInterface_1.0.0-tsp.210413.1530+yang.1.zip)
 
 ### JSON Schema
 - not planned
